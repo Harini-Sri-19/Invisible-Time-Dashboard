@@ -1,0 +1,908 @@
+Record_ID,Date,Activity_Name,Category,Duration_Minutes,Productivity_Flag,Start_Time,End_Time
+1,2025-09-01,Checking Notifications,Phone Usage,5.0,Non-Productive,06:35,06:40
+2,2025-09-01,Social Media Scrolling,Social Media,58.0,Non-Productive,10:59,11:57
+3,2025-09-01,Random Phone Unlocking,Phone Usage,10.0,,13:28,13:38
+4,2025-09-01,Exercise / Workout,Health,44.0,Productive,16:38,17:22
+5,2025-09-01,Choosing What to Eat,Decision Fatigue,13.0,Non-Productive,19:21,19:34
+6,2025-09-01,Social Media Scrolling,Social Media,42.0,Non-Productive,20:02,20:44
+7,2025-09-01,Daydreaming / Zoning Out,Idle Time,35.0,Non-Productive,20:10,20:45
+8,2025-09-02,Waiting for Public Transport,Waiting,19.0,Non-Productive,11:40,11:59
+9,2025-09-02,Social Media Scrolling,Social Media,43.0,Non-Productive,12:29,13:12
+10,2025-09-02,Overthinking / Indecision,Decision Fatigue,14.0,Non-Productive,12:32,12:46
+11,2025-09-02,Checking Notifications,Phone Usage,4.0,Non-Productive,13:52,13:56
+12,2025-09-02,Social Media Scrolling,Social Media,38.0,Non-Productive,13:58,14:36
+13,2025-09-02,Short Video Binge (Reels/Shorts),Social Media,15.0,Non-Productive,14:15,14:30
+14,2025-09-02,YouTube Browsing,Entertainment,65.0,Non-Productive,15:22,16:27
+15,2025-09-02,Daydreaming / Zoning Out,Idle Time,18.0,Non-Productive,18:04,18:22
+16,2025-09-02,Checking Notifications,Phone Usage,4.0,Non-Productive,19:57,20:01
+17,2025-09-02,Random Phone Unlocking,Phone Usage,1.0,Non-Productive,21:25,21:26
+18,2025-09-02,Random Phone Unlocking,Phone Usage,6.0,Non-Productive,23:14,23:20
+19,2025-09-03,Focused Project Work,Productive Work,107.0,Productive,09:38,11:25
+20,2025-09-03,Daydreaming / Zoning Out,Idle Time,17.0,Non-Productive,09:46,10:03
+21,2025-09-03,Short Video Binge (Reels/Shorts),Social Media,44.0,Non-Productive,13:21,14:05
+22,2025-09-03,YouTube Browsing,Entertainment,26.0,Non-Productive,14:33,14:59
+23,2025-09-03,Social Media Scrolling,Social Media,13.0,Non-Productive,16:15,16:28
+24,2025-09-03,Meal Preparation / Eating,Daily Living,30.0,Productive,18:48,19:18
+25,2025-09-03,Choosing What to Eat,Decision Fatigue,15.0,Non-Productive,19:08,19:23
+26,2025-09-03,Overthinking / Indecision,Decision Fatigue,18.0,Non-Productive,19:28,19:46
+27,2025-09-03,Waiting for Public Transport,Waiting,11.0,Non-Productive,20:10,20:21
+28,2025-09-03,YouTube Browsing,Entertainment,79.0,Non-Productive,20:19,21:38
+29,2025-09-03,Sleep Routine / Wind Down,Daily Living,14.0,Productive,22:32,22:46
+30,2025-09-03,Random Phone Unlocking,Phone Usage,9.0,Non-Productive,23:48,23:57
+31,2025-09-04,Reading a Book,Learning,25.0,Productive,08:43,09:08
+32,2025-09-04,Random Phone Unlocking,Phone Usage,7.0,Non-Productive,09:42,09:49
+33,2025-09-04,Social Media Scrolling,Social Media,25.0,Non-Productive,14:17,14:42
+34,2025-09-04,Focused Project Work,Productive Work,135.0,Productive,20:21,22:36
+35,2025-09-04,Social Media Scrolling,Social Media,16.0,Non-Productive,21:08,21:24
+36,2025-09-04,Overthinking / Indecision,Decision Fatigue,43.0,Non-Productive,23:15,23:58
+37,2025-09-05,Meal Preparation / Eating,Daily Living,31.0,Productive,09:54,10:25
+38,2025-09-05,YouTube Browsing,Entertainment,23.0,Non-Productive,14:59,15:22
+39,2025-09-05,Focused Project Work,Productive Work,31.0,Productive,15:57,16:28
+40,2025-09-05,Focused Project Work,Productive Work,111.0,Productive,16:32,18:23
+41,2025-09-05,Stuck in Traffic Signal Jams,Traffic,24.0,Non-Productive,20:54,21:18
+42,2025-09-05,Social Media Scrolling,Social Media,37.0,Non-Productive,22:09,22:46
+43,2025-09-05,Sleep Routine / Wind Down,Daily Living,30.0,Productive,23:34,00:04
+44,2025-09-06,Social Media Scrolling,Social Media,50.0,Non-Productive,09:56,10:46
+45,2025-09-06,YouTube Browsing,Entertainment,35.0,Non-Productive,11:00,11:35
+46,2025-09-06,Traffic / Commute Delay,Traffic,37.0,Non-Productive,11:13,11:50
+47,2025-09-06,YouTube Browsing,Entertainment,40.0,Non-Productive,11:34,12:14
+48,2025-09-06,Online Course / Tutorial,Learning,29.0,Productive,11:42,12:11
+49,2025-09-06,YouTube Browsing,Entertainment,56.0,Non-Productive,11:56,12:52
+50,2025-09-06,Social Media Scrolling,Social Media,40.0,Non-Productive,16:39,17:19
+51,2025-09-06,Overthinking / Indecision,Decision Fatigue,7.0,Non-Productive,17:59,18:06
+52,2025-09-06,Waiting in Queue (Billing/Counter),Waiting,17.0,Non-Productive,18:13,18:30
+53,2025-09-07,Social Media Scrolling,Social Media,48.0,Non-Productive,08:19,09:07
+54,2025-09-07,Reading a Book,Learning,49.0,Productive,08:53,09:42
+55,2025-09-07,Random Phone Unlocking,Phone Usage,10.0,Non-Productive,09:04,09:14
+56,2025-09-07,Overthinking / Indecision,Decision Fatigue,16.0,Non-Productive,09:57,10:13
+57,2025-09-07,Social Media Scrolling,Social Media,39.0,Non-Productive,11:59,12:38
+58,2025-09-07,Deep Work / Study Session,Productive Work,80.0,Productive,13:49,15:09
+59,2025-09-07,Meal Preparation / Eating,Daily Living,30.0,Productive,14:17,14:47
+60,2025-09-07,Short Video Binge (Reels/Shorts),Social Media,40.0,Non-Productive,17:50,18:30
+61,2025-09-07,Streaming TV/Web Series,Entertainment,53.0,Non-Productive,18:47,19:40
+62,2025-09-07,Waiting in Queue (Billing/Counter),Waiting,27.0,Non-Productive,21:11,21:38
+63,2025-09-08,Random Phone Unlocking,Phone Usage,3.0,Non-Productive,08:49,08:52
+64,2025-09-08,Stuck in Traffic Signal Jams,Traffic,34.0,Non-Productive,12:11,12:45
+65,2025-09-08,Focused Project Work,Productive Work,63.0,Productive,12:14,13:17
+66,2025-09-08,Procrastination Breaks,Idle Time,38.0,Non-Productive,17:07,17:45
+67,2025-09-08,Checking Notifications,Phone Usage,5.0,Non-Productive,19:22,19:27
+68,2025-09-08,Deep Work / Study Session,Productive Work,114.0,Productive,21:34,23:28
+69,2025-09-09,Choosing What to Eat,Decision Fatigue,15.0,Non-Productive,07:15,07:30
+70,2025-09-09,Online Course / Tutorial,Learning,43.0,Productive,13:35,14:18
+71,2025-09-09,Social Media Scrolling,Social Media,47.0,Non-Productive,14:43,15:30
+72,2025-09-09,Waiting in Queue (Billing/Counter),Waiting,17.0,Non-Productive,16:26,16:43
+73,2025-09-09,Social Media Scrolling,Social Media,40.0,Non-Productive,16:32,17:12
+74,2025-09-09,Waiting for Public Transport,Waiting,5.0,Non-Productive,16:32,16:37
+75,2025-09-09,Daydreaming / Zoning Out,,35.0,Non-Productive,16:53,17:28
+76,2025-09-09,Searching for Misplaced Items,Idle Time,11.0,Non-Productive,17:29,17:40
+77,2025-09-09,Checking Notifications,Phone Usage,5.0,Non-Productive,18:31,18:36
+78,2025-09-09,Choosing What to Eat,Decision Fatigue,22.0,Non-Productive,19:57,20:19
+79,2025-09-09,YouTube Browsing,Entertainment,57.0,Non-Productive,20:47,21:44
+80,2025-09-09,Focused Project Work,Productive Work,30.0,Productive,21:55,22:25
+81,2025-09-10,Stuck in Traffic Signal Jams,Traffic,25.0,Non-Productive,09:26,09:51
+82,2025-09-10,Short Video Binge (Reels/Shorts),Social Media,68.0,Non-Productive,14:09,15:17
+83,2025-09-10,YouTube Browsing,Entertainment,39.0,Non-Productive,14:48,15:27
+84,2025-09-10,Short Video Binge (Reels/Shorts),Social Media,39.0,Non-Productive,16:15,16:54
+85,2025-09-10,Stuck in Traffic Signal Jams,Traffic,35.0,Non-Productive,16:28,17:03
+86,2025-09-10,Deep Work / Study Session,Productive Work,83.0,Productive,16:35,17:58
+87,2025-09-10,Choosing What to Watch,Decision Fatigue,13.0,Non-Productive,22:52,23:05
+88,2025-09-10,Reading a Book,Learning,28.0,Productive,23:31,23:59
+89,2025-09-11,Exercise / Workout,Health,42.0,Productive,05:05,05:47
+90,2025-09-11,YouTube Browsing,Entertainment,42.0,Non-Productive,10:16,10:58
+91,2025-09-11,Social Media Scrolling,Social Media,24.0,Non-Productive,11:39,12:03
+92,2025-09-11,Deep Work / Study Session,Productive Work,74.0,Productive,12:48,14:02
+93,2025-09-11,Online Course / Tutorial,Learning,60.0,Productive,13:53,14:53
+94,2025-09-11,Traffic / Commute Delay,Traffic,50.0,Non-Productive,15:47,16:37
+95,2025-09-11,Procrastination Breaks,Idle Time,28.0,Non-Productive,16:14,16:42
+96,2025-09-11,Online Course / Tutorial,Learning,71.0,Productive,19:43,20:54
+97,2025-09-11,Streaming TV/Web Series,Entertainment,33.0,Non-Productive,23:56,00:29
+98,2025-09-12,Meal Preparation / Eating,Daily Living,30.0,Productive,07:59,08:29
+99,2025-09-12,Random Phone Unlocking,Phone Usage,6.0,Non-Productive,09:50,09:56
+100,2025-09-12,Social Media Scrolling,Social Media,35.0,Non-Productive,10:49,11:24
+101,2025-09-12,Random Phone Unlocking,Phone Usage,8.0,Non-Productive,12:29,12:37
+102,2025-09-12,Social Media Scrolling,Social Media,28.0,Non-Productive,14:06,14:34
+103,2025-09-12,Focused Project Work,Productive Work,74.0,Productive,15:42,16:56
+104,2025-09-12,Short Video Binge (Reels/Shorts),Social Media,53.0,Non-Productive,19:27,20:20
+105,2025-09-12,Social Media Scrolling,Social Media,13.0,Non-Productive,19:45,19:58
+106,2025-09-12,Random Phone Unlocking,Phone Usage,9.0,Non-Productive,20:45,20:54
+107,2025-09-12,Overthinking / Indecision,Decision Fatigue,23.0,Non-Productive,21:52,22:15
+108,2025-09-12,Streaming TV/Web Series,Entertainment,117.0,Non-Productive,22:17,00:14
+109,2025-09-13,Deep Work / Study Session,Productive Work,97.0,Productive,10:31,12:08
+110,2025-09-13,Focused Project Work,Productive Work,103.0,Productive,12:13,13:56
+111,2025-09-13,Social Media Scrolling,,33.0,Non-Productive,15:35,16:08
+112,2025-09-13,Social Media Scrolling,Social Media,39.0,Non-Productive,17:07,17:46
+113,2025-09-13,Exercise / Workout,Health,21.0,Productive,18:31,18:52
+114,2025-09-13,Stuck in Traffic Signal Jams,Traffic,23.0,Non-Productive,19:15,19:38
+115,2025-09-13,Waiting for Public Transport,Waiting,16.0,Non-Productive,21:17,21:33
+116,2025-09-13,Random Phone Unlocking,Phone Usage,7.0,Non-Productive,21:28,21:35
+117,2025-09-13,Online Gaming,Entertainment,120.0,Non-Productive,22:22,00:22
+118,2025-09-14,Checking Notifications,Phone Usage,7.0,Non-Productive,07:09,07:16
+119,2025-09-14,Checking Notifications,Phone Usage,4.0,Non-Productive,07:14,07:18
+120,2025-09-14,Deep Work / Study Session,Productive Work,112.0,Productive,09:52,11:44
+121,2025-09-14,Online Course / Tutorial,Learning,56.0,Productive,10:43,11:39
+122,2025-09-14,Social Media Scrolling,Social Media,20.0,Non-Productive,12:00,12:20
+123,2025-09-14,Checking Notifications,Phone Usage,8.0,Non-Productive,13:49,13:57
+124,2025-09-14,Waiting for Public Transport,Waiting,11.0,Non-Productive,14:07,14:18
+125,2025-09-14,Overthinking / Indecision,Decision Fatigue,19.0,Non-Productive,14:27,14:46
+126,2025-09-14,Social Media Scrolling,Social Media,65.0,Non-Productive,15:42,16:47
+127,2025-09-14,Searching for Misplaced Items,Idle Time,4.0,Non-Productive,15:52,15:56
+128,2025-09-14,Online Gaming,,36.0,Non-Productive,15:55,16:31
+129,2025-09-14,Daydreaming / Zoning Out,Idle Time,10.0,Non-Productive,21:37,21:47
+130,2025-09-14,Short Video Binge (Reels/Shorts),Social Media,61.0,Non-Productive,21:47,22:48
+131,2025-09-14,Sleep Routine / Wind Down,Daily Living,33.0,Productive,22:11,22:44
+132,2025-09-15,YouTube Browsing,Entertainment,34.0,Non-Productive,11:54,12:28
+133,2025-09-15,Daydreaming / Zoning Out,Idle Time,24.0,Non-Productive,14:03,14:27
+134,2025-09-15,Checking Notifications,Phone Usage,6.0,Non-Productive,14:36,14:42
+135,2025-09-15,Stuck in Traffic Signal Jams,Traffic,23.0,Non-Productive,17:16,17:39
+136,2025-09-15,Traffic / Commute Delay,Traffic,27.0,Non-Productive,17:28,17:55
+137,2025-09-15,Stuck in Traffic Signal Jams,Traffic,19.0,Non-Productive,18:25,18:44
+138,2025-09-15,Online Gaming,Entertainment,88.0,Non-Productive,19:16,20:44
+139,2025-09-15,Checking Notifications,Phone Usage,8.0,Non-Productive,21:05,21:13
+140,2025-09-15,Exercise / Workout,Health,30.0,Productive,21:52,22:22
+141,2025-09-15,Streaming TV/Web Series,Entertainment,43.0,Non-Productive,23:36,00:19
+142,2025-09-16,Searching for Misplaced Items,Idle Time,17.0,Non-Productive,09:14,09:31
+143,2025-09-16,Messaging / Chat Apps,Phone Usage,6.0,Non-Productive,10:41,10:47
+144,2025-09-16,Online Course / Tutorial,Learning,59.0,Productive,12:29,13:28
+145,2025-09-16,YouTube Browsing,Entertainment,54.0,Non-Productive,12:31,13:25
+146,2025-09-16,Random Phone Unlocking,Phone Usage,8.0,Non-Productive,12:44,12:52
+147,2025-09-16,YouTube Browsing,Entertainment,36.0,Non-Productive,16:24,17:00
+148,2025-09-16,Short Video Binge (Reels/Shorts),Social Media,23.0,Non-Productive,16:46,17:09
+149,2025-09-16,Stuck in Traffic Signal Jams,Traffic,29.0,Non-Productive,16:47,17:16
+150,2025-09-16,YouTube Browsing,Entertainment,53.0,Non-Productive,18:45,19:38
+151,2025-09-16,Messaging / Chat Apps,Phone Usage,24.0,Non-Productive,20:02,20:26
+152,2025-09-16,Choosing What to Watch,Decision Fatigue,6.0,Non-Productive,21:21,21:27
+153,2025-09-16,Online Gaming,Entertainment,75.0,Non-Productive,22:48,00:03
+154,2025-09-16,Meal Preparation / Eating,Daily Living,37.0,Productive,22:55,23:32
+155,2025-09-17,Traffic / Commute Delay,Traffic,26.0,Non-Productive,12:27,12:53
+156,2025-09-17,Overthinking / Indecision,Decision Fatigue,32.0,Non-Productive,13:10,13:42
+157,2025-09-17,Exercise / Workout,Health,51.0,Productive,15:39,16:30
+158,2025-09-17,Stuck in Traffic Signal Jams,Traffic,38.0,Non-Productive,16:02,16:40
+159,2025-09-17,Exercise / Workout,Health,37.0,Productive,17:20,17:57
+160,2025-09-17,Stuck in Traffic Signal Jams,Traffic,12.0,Non-Productive,18:45,18:57
+161,2025-09-17,Streaming TV/Web Series,Entertainment,81.0,Non-Productive,19:14,20:35
+162,2025-09-17,Meal Preparation / Eating,Daily Living,40.0,Productive,21:57,22:37
+163,2025-09-17,Daydreaming / Zoning Out,Idle Time,28.0,Non-Productive,22:01,22:29
+164,2025-09-17,Short Video Binge (Reels/Shorts),Social Media,73.0,Non-Productive,22:15,23:28
+165,2025-09-17,Streaming TV/Web Series,Entertainment,49.0,Non-Productive,22:16,23:05
+166,2025-09-18,Meal Preparation / Eating,Daily Living,49.0,Productive,08:58,09:47
+167,2025-09-18,Checking Notifications,Phone Usage,3.0,Non-Productive,10:40,10:43
+168,2025-09-18,Waiting for Public Transport,Waiting,19.0,Non-Productive,12:16,12:35
+169,2025-09-18,Focused Project Work,Productive Work,102.0,Productive,13:20,15:02
+170,2025-09-18,Checking Notifications,Phone Usage,7.0,Non-Productive,14:00,14:07
+171,2025-09-18,Waiting for Public Transport,Waiting,22.0,Non-Productive,16:47,17:09
+172,2025-09-18,Stuck in Traffic Signal Jams,Traffic,15.0,Non-Productive,18:12,18:27
+173,2025-09-18,Choosing What to Watch,Decision Fatigue,10.0,Non-Productive,20:49,20:59
+174,2025-09-18,Short Video Binge (Reels/Shorts),Social Media,56.0,Non-Productive,20:56,21:52
+175,2025-09-18,Sleep Routine / Wind Down,Daily Living,18.0,Productive,22:02,22:20
+176,2025-09-18,Sleep Routine / Wind Down,Daily Living,28.0,Productive,22:44,23:12
+177,2025-09-19,Meal Preparation / Eating,Daily Living,24.0,Productive,08:02,08:26
+178,2025-09-19,Short Video Binge (Reels/Shorts),Social Media,,Non-Productive,17:05,17:55
+179,2025-09-19,Focused Project Work,Productive Work,95.0,Productive,19:23,20:58
+180,2025-09-19,Meal Preparation / Eating,Daily Living,45.0,Productive,21:23,22:08
+181,2025-09-19,Meal Preparation / Eating,Daily Living,37.0,Productive,21:58,22:35
+182,2025-09-19,Deep Work / Study Session,Productive Work,57.0,Productive,22:34,23:31
+183,2025-09-19,Daydreaming / Zoning Out,Idle Time,40.0,Non-Productive,22:35,23:15
+184,2025-09-20,Traffic / Commute Delay,Traffic,50.0,Non-Productive,07:03,07:53
+185,2025-09-20,Social Media Scrolling,,47.0,Non-Productive,07:08,07:55
+186,2025-09-20,Meal Preparation / Eating,Daily Living,34.0,Productive,10:28,11:02
+187,2025-09-20,Meal Preparation / Eating,Daily Living,28.0,Productive,11:34,12:02
+188,2025-09-20,Short Video Binge (Reels/Shorts),Social Media,32.0,Non-Productive,12:03,12:35
+189,2025-09-20,Stuck in Traffic Signal Jams,Traffic,11.0,Non-Productive,16:07,16:18
+190,2025-09-20,Waiting for Public Transport,Waiting,18.0,Non-Productive,17:01,17:19
+191,2025-09-20,Traffic / Commute Delay,Traffic,50.0,Non-Productive,17:23,18:13
+192,2025-09-20,Streaming TV/Web Series,Entertainment,48.0,Non-Productive,18:52,19:40
+193,2025-09-20,Short Video Binge (Reels/Shorts),Social Media,64.0,Non-Productive,19:05,20:09
+194,2025-09-20,Searching for Misplaced Items,Idle Time,10.0,Non-Productive,19:17,19:27
+195,2025-09-20,Short Video Binge (Reels/Shorts),Social Media,48.0,Non-Productive,21:13,22:01
+196,2025-09-20,Traffic / Commute Delay,,17.0,Non-Productive,21:38,21:55
+197,2025-09-20,Focused Project Work,Productive Work,119.0,Productive,21:58,23:57
+198,2025-09-21,Checking Notifications,Phone Usage,7.0,Non-Productive,08:53,09:00
+199,2025-09-21,Social Media Scrolling,Social Media,17.0,Non-Productive,10:54,11:11
+200,2025-09-21,Social Media Scrolling,Social Media,40.0,Non-Productive,13:27,14:07
+201,2025-09-21,Social Media Scrolling,Social Media,51.0,Non-Productive,15:23,16:14
+202,2025-09-21,Online Gaming,Entertainment,82.0,Non-Productive,21:25,22:47
+203,2025-09-21,Streaming TV/Web Series,Entertainment,73.0,Non-Productive,22:37,23:50
+204,2025-09-21,Reading a Book,Learning,38.0,Productive,23:18,23:56
+205,2025-09-22,Daydreaming / Zoning Out,Idle Time,19.0,Non-Productive,08:09,08:28
+206,2025-09-22,Deep Work / Study Session,Productive Work,48.0,Productive,12:38,13:26
+207,2025-09-22,YouTube Browsing,Entertainment,31.0,Non-Productive,12:42,13:13
+208,2025-09-22,Choosing What to Eat,Decision Fatigue,20.0,Non-Productive,13:04,13:24
+209,2025-09-22,Searching for Misplaced Items,Idle Time,15.0,Non-Productive,13:24,13:39
+210,2025-09-22,Waiting in Queue (Billing/Counter),,24.0,Non-Productive,14:22,14:46
+211,2025-09-22,YouTube Browsing,Entertainment,60.0,Non-Productive,16:54,17:54
+212,2025-09-22,Waiting in Queue (Billing/Counter),Waiting,23.0,Non-Productive,19:41,20:04
+213,2025-09-22,Focused Project Work,Productive Work,129.0,Productive,20:20,22:29
+214,2025-09-22,Online Gaming,Entertainment,81.0,Non-Productive,22:23,23:44
+215,2025-09-22,Short Video Binge (Reels/Shorts),Social Media,90.0,Non-Productive,23:17,00:47
+216,2025-09-23,Traffic / Commute Delay,Traffic,29.0,Non-Productive,07:00,07:29
+217,2025-09-23,Traffic / Commute Delay,Traffic,34.0,Non-Productive,09:08,09:42
+218,2025-09-23,Waiting in Queue (Billing/Counter),Waiting,5.0,Non-Productive,15:45,15:50
+219,2025-09-23,Stuck in Traffic Signal Jams,Traffic,29.0,Non-Productive,16:42,17:11
+220,2025-09-23,Short Video Binge (Reels/Shorts),Social Media,63.0,Non-Productive,17:10,18:13
+221,2025-09-23,Messaging / Chat Apps,Phone Usage,22.0,Non-Productive,18:04,18:26
+222,2025-09-23,Online Gaming,Entertainment,,Non-Productive,18:18,19:19
+223,2025-09-23,Streaming TV/Web Series,Entertainment,120.0,Non-Productive,20:58,22:58
+224,2025-09-23,Choosing What to Eat,Decision Fatigue,6.0,Non-Productive,21:23,21:29
+225,2025-09-23,Online Gaming,Entertainment,55.0,Non-Productive,23:25,00:20
+226,2025-09-24,Meal Preparation / Eating,Daily Living,26.0,Productive,08:28,08:54
+227,2025-09-24,Random Phone Unlocking,Phone Usage,11.0,Non-Productive,09:09,09:20
+228,2025-09-24,Waiting in Queue (Billing/Counter),Waiting,20.0,Non-Productive,10:39,10:59
+229,2025-09-24,Procrastination Breaks,Idle Time,29.0,Non-Productive,14:53,15:22
+230,2025-09-24,YouTube Browsing,Entertainment,63.0,Non-Productive,17:28,18:31
+231,2025-09-24,Short Video Binge (Reels/Shorts),Social Media,62.0,Non-Productive,17:45,18:47
+232,2025-09-24,Messaging / Chat Apps,Phone Usage,14.0,Non-Productive,18:32,18:46
+233,2025-09-24,Overthinking / Indecision,Decision Fatigue,17.0,Non-Productive,18:55,19:12
+234,2025-09-24,Procrastination Breaks,Idle Time,28.0,Non-Productive,21:41,22:09
+235,2025-09-24,Social Media Scrolling,Social Media,18.0,Non-Productive,21:48,22:06
+236,2025-09-24,Overthinking / Indecision,Decision Fatigue,45.0,Non-Productive,23:32,00:17
+237,2025-09-25,Waiting for Public Transport,Waiting,22.0,Non-Productive,09:19,09:41
+238,2025-09-25,Waiting for Public Transport,Waiting,16.0,Non-Productive,09:41,09:57
+239,2025-09-25,Overthinking / Indecision,Decision Fatigue,21.0,Non-Productive,09:42,10:03
+240,2025-09-25,Choosing What to Eat,Decision Fatigue,19.0,Non-Productive,10:14,10:33
+241,2025-09-25,Social Media Scrolling,Social Media,16.0,Non-Productive,10:32,10:48
+242,2025-09-25,Reading a Book,Learning,28.0,Productive,11:42,12:10
+243,2025-09-25,Procrastination Breaks,Idle Time,33.0,Non-Productive,13:11,13:44
+244,2025-09-25,Waiting in Queue (Billing/Counter),Waiting,16.0,Non-Productive,15:09,15:25
+245,2025-09-25,Online Gaming,Entertainment,50.0,Non-Productive,19:19,20:09
+246,2025-09-25,YouTube Browsing,Entertainment,85.0,Non-Productive,20:46,22:11
+247,2025-09-25,Streaming TV/Web Series,Entertainment,74.0,Non-Productive,21:55,23:09
+248,2025-09-25,Waiting in Queue (Billing/Counter),Waiting,15.0,Non-Productive,21:57,22:12
+249,2025-09-25,Sleep Routine / Wind Down,Daily Living,10.0,Productive,22:18,22:28
+250,2025-09-26,Choosing What to Eat,Decision Fatigue,12.0,Non-Productive,07:20,07:32
+251,2025-09-26,Random Phone Unlocking,Phone Usage,3.0,Non-Productive,07:41,07:44
+252,2025-09-26,Procrastination Breaks,Idle Time,32.0,Non-Productive,09:57,10:29
+253,2025-09-26,Meal Preparation / Eating,Daily Living,40.0,Productive,10:18,10:58
+254,2025-09-26,Random Phone Unlocking,Phone Usage,9.0,Non-Productive,11:52,12:01
+255,2025-09-26,Traffic / Commute Delay,Traffic,41.0,Non-Productive,16:29,17:10
+256,2025-09-26,Procrastination Breaks,Idle Time,50.0,Non-Productive,17:09,17:59
+257,2025-09-26,Procrastination Breaks,Idle Time,36.0,Non-Productive,17:46,18:22
+258,2025-09-26,Streaming TV/Web Series,Entertainment,46.0,Non-Productive,18:19,19:05
+259,2025-09-26,Stuck in Traffic Signal Jams,Traffic,16.0,Non-Productive,19:53,20:09
+260,2025-09-26,Reading a Book,Learning,49.0,Productive,21:56,22:45
+261,2025-09-26,YouTube Browsing,Entertainment,75.0,Non-Productive,22:09,23:24
+262,2025-09-26,Messaging / Chat Apps,Phone Usage,7.0,Non-Productive,23:23,23:30
+263,2025-09-27,Traffic / Commute Delay,Traffic,44.0,Non-Productive,07:20,08:04
+264,2025-09-27,Meal Preparation / Eating,Daily Living,42.0,Productive,10:51,11:33
+265,2025-09-27,Choosing What to Eat,Decision Fatigue,22.0,Non-Productive,15:30,15:52
+266,2025-09-27,Random Phone Unlocking,Phone Usage,7.0,Non-Productive,17:15,17:22
+267,2025-09-27,Social Media Scrolling,Social Media,13.0,Non-Productive,18:55,19:08
+268,2025-09-27,Social Media Scrolling,Social Media,35.0,Non-Productive,19:21,19:56
+269,2025-09-27,Random Phone Unlocking,Phone Usage,6.0,Non-Productive,20:02,20:08
+270,2025-09-27,Streaming TV/Web Series,Entertainment,44.0,Non-Productive,20:23,21:07
+271,2025-09-27,Streaming TV/Web Series,Entertainment,81.0,Non-Productive,20:38,21:59
+272,2025-09-27,Traffic / Commute Delay,Traffic,69.0,Non-Productive,20:41,21:50
+273,2025-09-27,Online Gaming,Entertainment,29.0,Non-Productive,21:40,22:09
+274,2025-09-27,Streaming TV/Web Series,Entertainment,45.0,Non-Productive,23:33,00:18
+275,2025-09-27,Social Media Scrolling,Social Media,5.0,Non-Productive,23:35,23:40
+276,2025-09-27,Short Video Binge (Reels/Shorts),Social Media,25.0,Non-Productive,23:48,00:13
+277,2025-09-28,Social Media Scrolling,Social Media,37.0,Non-Productive,08:46,09:23
+278,2025-09-28,Traffic / Commute Delay,Traffic,44.0,Non-Productive,09:04,09:48
+279,2025-09-28,Choosing What to Eat,Decision Fatigue,11.0,Non-Productive,11:40,11:51
+280,2025-09-28,Online Gaming,Entertainment,57.0,Non-Productive,14:09,15:06
+281,2025-09-28,Waiting in Queue (Billing/Counter),Waiting,31.0,Non-Productive,14:28,14:59
+282,2025-09-28,Checking Notifications,Phone Usage,5.0,Non-Productive,18:23,18:28
+283,2025-09-28,Choosing What to Watch,Decision Fatigue,14.0,Non-Productive,22:02,22:16
+284,2025-09-29,Messaging / Chat Apps,Phone Usage,29.0,Non-Productive,11:56,12:25
+285,2025-09-29,Social Media Scrolling,Social Media,32.0,Non-Productive,12:45,13:17
+286,2025-09-29,Short Video Binge (Reels/Shorts),Social Media,45.0,Non-Productive,13:19,14:04
+287,2025-09-29,Daydreaming / Zoning Out,Idle Time,17.0,Non-Productive,13:41,13:58
+288,2025-09-29,Procrastination Breaks,Idle Time,21.0,Non-Productive,15:49,16:10
+289,2025-09-29,Online Gaming,Entertainment,76.0,Non-Productive,16:27,17:43
+290,2025-09-29,Messaging / Chat Apps,Phone Usage,26.0,Non-Productive,18:32,18:58
+291,2025-09-29,Meal Preparation / Eating,Daily Living,15.0,Productive,18:45,19:00
+292,2025-09-29,Streaming TV/Web Series,Entertainment,77.0,Non-Productive,18:50,20:07
+293,2025-09-29,Checking Notifications,Phone Usage,10.0,Non-Productive,20:05,20:15
+294,2025-09-29,Checking Notifications,Phone Usage,2.0,Non-Productive,21:12,21:14
+295,2025-09-29,Reading a Book,Learning,30.0,Productive,21:51,22:21
+296,2025-09-30,Reading a Book,Learning,31.0,Productive,08:10,08:41
+297,2025-09-30,Waiting in Queue (Billing/Counter),Waiting,22.0,Non-Productive,10:02,10:24
+298,2025-09-30,YouTube Browsing,Entertainment,52.0,Non-Productive,11:03,11:55
+299,2025-09-30,Daydreaming / Zoning Out,Idle Time,29.0,Non-Productive,11:49,12:18
+300,2025-09-30,Short Video Binge (Reels/Shorts),Social Media,75.0,Non-Productive,15:55,17:10
+301,2025-09-30,Checking Notifications,Phone Usage,4.0,Non-Productive,16:12,16:16
+302,2025-09-30,Random Phone Unlocking,Phone Usage,10.0,Non-Productive,17:25,17:35
+303,2025-09-30,Messaging / Chat Apps,Phone Usage,29.0,Non-Productive,17:53,18:22
+304,2025-09-30,YouTube Browsing,Entertainment,60.0,Non-Productive,17:56,18:56
+305,2025-09-30,Focused Project Work,Productive Work,133.0,Productive,18:09,20:22
+306,2025-09-30,Overthinking / Indecision,Decision Fatigue,24.0,Non-Productive,18:15,18:39
+307,2025-09-30,Waiting in Queue (Billing/Counter),Waiting,24.0,Non-Productive,19:34,19:58
+308,2025-09-30,Short Video Binge (Reels/Shorts),Social Media,36.0,Non-Productive,20:41,21:17
+309,2025-09-30,Online Course / Tutorial,Learning,40.0,Productive,21:51,22:31
+310,2025-10-01,Social Media Scrolling,Social Media,47.0,Non-Productive,11:06,11:53
+311,2025-10-01,Random Phone Unlocking,Phone Usage,10.0,Non-Productive,13:46,13:56
+312,2025-10-01,Online Gaming,Entertainment,101.0,Non-Productive,14:02,15:43
+313,2025-10-01,Stuck in Traffic Signal Jams,Traffic,20.0,Non-Productive,14:23,14:43
+314,2025-10-01,Checking Notifications,Phone Usage,4.0,Non-Productive,15:37,15:41
+315,2025-10-01,Social Media Scrolling,Social Media,39.0,Non-Productive,16:30,17:09
+316,2025-10-01,Focused Project Work,Productive Work,105.0,Productive,17:29,19:14
+317,2025-10-01,Random Phone Unlocking,Phone Usage,7.0,Non-Productive,17:35,17:42
+318,2025-10-01,Checking Notifications,Phone Usage,7.0,Non-Productive,17:48,17:55
+319,2025-10-01,Short Video Binge (Reels/Shorts),Social Media,47.0,Non-Productive,18:37,19:24
+320,2025-10-01,Waiting for Public Transport,Waiting,12.0,Non-Productive,19:09,19:21
+321,2025-10-01,Choosing What to Eat,Decision Fatigue,18.0,Non-Productive,21:39,21:57
+322,2025-10-01,Short Video Binge (Reels/Shorts),Social Media,51.0,Non-Productive,22:01,22:52
+323,2025-10-01,Online Gaming,Entertainment,96.0,Non-Productive,22:17,23:53
+324,2025-10-02,Traffic / Commute Delay,Traffic,22.0,Non-Productive,13:20,13:42
+325,2025-10-02,Traffic / Commute Delay,Traffic,61.0,Non-Productive,15:22,16:23
+326,2025-10-02,Messaging / Chat Apps,Phone Usage,28.0,Non-Productive,15:39,16:07
+327,2025-10-02,Stuck in Traffic Signal Jams,Traffic,13.0,Non-Productive,16:13,16:26
+328,2025-10-02,Online Gaming,Entertainment,83.0,Non-Productive,17:44,19:07
+329,2025-10-02,Streaming TV/Web Series,Entertainment,85.0,Non-Productive,19:14,20:39
+330,2025-10-02,Messaging / Chat Apps,Phone Usage,40.0,Non-Productive,22:55,23:35
+331,2025-10-03,Checking Notifications,Phone Usage,5.0,Non-Productive,08:22,08:27
+332,2025-10-03,Traffic / Commute Delay,Traffic,58.0,Non-Productive,08:26,09:24
+333,2025-10-03,Reading a Book,Learning,29.0,Productive,08:42,09:11
+334,2025-10-03,Waiting in Queue (Billing/Counter),Waiting,18.0,Non-Productive,11:00,11:18
+335,2025-10-03,Meal Preparation / Eating,Daily Living,27.0,Productive,12:26,12:53
+336,2025-10-03,YouTube Browsing,Entertainment,32.0,Non-Productive,13:12,13:44
+337,2025-10-03,YouTube Browsing,Entertainment,51.0,Non-Productive,14:08,14:59
+338,2025-10-03,Social Media Scrolling,Social Media,41.0,Non-Productive,14:34,15:15
+339,2025-10-03,Short Video Binge (Reels/Shorts),Social Media,43.0,Non-Productive,16:20,17:03
+340,2025-10-03,Procrastination Breaks,Idle Time,18.0,Non-Productive,19:59,20:17
+341,2025-10-04,Exercise / Workout,Health,40.0,Productive,11:11,11:51
+342,2025-10-04,Social Media Scrolling,Social Media,38.0,Non-Productive,11:30,12:08
+343,2025-10-04,Stuck in Traffic Signal Jams,Traffic,25.0,Non-Productive,12:23,12:48
+344,2025-10-04,Overthinking / Indecision,Decision Fatigue,39.0,Non-Productive,12:29,13:08
+345,2025-10-04,Checking Notifications,Phone Usage,2.0,Non-Productive,13:28,13:30
+346,2025-10-04,Messaging / Chat Apps,Phone Usage,23.0,Non-Productive,15:12,15:35
+347,2025-10-04,Searching for Misplaced Items,Idle Time,12.0,Non-Productive,15:45,15:57
+348,2025-10-04,Procrastination Breaks,Idle Time,18.0,Non-Productive,17:31,17:49
+349,2025-10-04,Online Course / Tutorial,Learning,42.0,Productive,19:07,19:49
+350,2025-10-04,Checking Notifications,Phone Usage,4.0,Non-Productive,19:32,19:36
+351,2025-10-04,Waiting in Queue (Billing/Counter),Waiting,18.0,Non-Productive,20:49,21:07
+352,2025-10-04,Online Gaming,Entertainment,30.0,Non-Productive,23:00,23:30
+353,2025-10-05,Procrastination Breaks,Idle Time,18.0,Non-Productive,09:18,09:36
+354,2025-10-05,Choosing What to Eat,Decision Fatigue,13.0,Non-Productive,10:37,10:50
+355,2025-10-05,Waiting for Public Transport,Waiting,16.0,Non-Productive,11:41,11:57
+356,2025-10-05,Short Video Binge (Reels/Shorts),Social Media,63.0,Non-Productive,12:19,13:22
+357,2025-10-05,Deep Work / Study Session,Productive Work,59.0,Productive,14:29,15:28
+358,2025-10-05,Deep Work / Study Session,Productive Work,77.0,Productive,14:52,16:09
+359,2025-10-05,Searching for Misplaced Items,Idle Time,11.0,,16:46,16:57
+360,2025-10-05,YouTube Browsing,Entertainment,80.0,Non-Productive,17:55,19:15
+361,2025-10-05,Reading a Book,Learning,42.0,Productive,19:33,20:15
+362,2025-10-05,Searching for Misplaced Items,Idle Time,10.0,Non-Productive,21:07,21:17
+363,2025-10-05,Online Gaming,Entertainment,75.0,Non-Productive,22:03,23:18
+364,2025-10-05,Deep Work / Study Session,Productive Work,89.0,Productive,22:32,00:01
+365,2025-10-05,Streaming TV/Web Series,Entertainment,82.0,Non-Productive,22:41,00:03
+366,2025-10-05,Reading a Book,Learning,47.0,Productive,23:12,23:59
+367,2025-10-06,Daydreaming / Zoning Out,Idle Time,22.0,Non-Productive,08:15,08:37
+368,2025-10-06,Online Course / Tutorial,Learning,58.0,Productive,10:38,11:36
+369,2025-10-06,Exercise / Workout,Health,67.0,Productive,10:40,11:47
+370,2025-10-06,Procrastination Breaks,Idle Time,33.0,Non-Productive,11:42,12:15
+371,2025-10-06,Deep Work / Study Session,Productive Work,66.0,Productive,12:14,13:20
+372,2025-10-06,Short Video Binge (Reels/Shorts),Social Media,51.0,Non-Productive,15:48,16:39
+373,2025-10-06,Traffic / Commute Delay,Traffic,42.0,Non-Productive,16:49,17:31
+374,2025-10-06,Social Media Scrolling,Social Media,49.0,Non-Productive,18:41,19:30
+375,2025-10-06,Messaging / Chat Apps,Phone Usage,40.0,Non-Productive,20:26,21:06
+376,2025-10-07,Random Phone Unlocking,Phone Usage,11.0,Non-Productive,07:17,07:28
+377,2025-10-07,Stuck in Traffic Signal Jams,Traffic,15.0,Non-Productive,08:13,08:28
+378,2025-10-07,Focused Project Work,Productive Work,111.0,Productive,10:12,12:03
+379,2025-10-07,Random Phone Unlocking,Phone Usage,8.0,Non-Productive,13:47,13:55
+380,2025-10-07,Short Video Binge (Reels/Shorts),Social Media,90.0,Non-Productive,15:30,17:00
+381,2025-10-07,Traffic / Commute Delay,Traffic,10.0,Non-Productive,15:41,15:51
+382,2025-10-07,YouTube Browsing,Entertainment,39.0,Non-Productive,17:29,18:08
+383,2025-10-07,Waiting in Queue (Billing/Counter),Waiting,22.0,Non-Productive,18:46,19:08
+384,2025-10-07,Social Media Scrolling,Social Media,63.0,Non-Productive,19:36,20:39
+385,2025-10-07,Traffic / Commute Delay,Traffic,30.0,Non-Productive,20:20,20:50
+386,2025-10-07,Random Phone Unlocking,Phone Usage,5.0,Non-Productive,20:54,20:59
+387,2025-10-07,Traffic / Commute Delay,Traffic,32.0,Non-Productive,21:15,21:47
+388,2025-10-07,Social Media Scrolling,Social Media,22.0,Non-Productive,22:58,23:20
+389,2025-10-08,Messaging / Chat Apps,Phone Usage,38.0,Non-Productive,07:01,07:39
+390,2025-10-08,Procrastination Breaks,Idle Time,40.0,Non-Productive,09:32,10:12
+391,2025-10-08,Deep Work / Study Session,Productive Work,72.0,Productive,09:52,11:04
+392,2025-10-08,Messaging / Chat Apps,Phone Usage,17.0,Non-Productive,12:06,12:23
+393,2025-10-08,Meal Preparation / Eating,Daily Living,,Productive,14:04,14:28
+394,2025-10-08,Reading a Book,Learning,36.0,Productive,14:19,14:55
+395,2025-10-08,Streaming TV/Web Series,Entertainment,103.0,Non-Productive,17:23,19:06
+396,2025-10-08,Daydreaming / Zoning Out,Idle Time,7.0,Non-Productive,17:33,17:40
+397,2025-10-08,Overthinking / Indecision,Decision Fatigue,29.0,Non-Productive,19:03,19:32
+398,2025-10-08,Streaming TV/Web Series,Entertainment,,Non-Productive,20:42,21:18
+399,2025-10-08,Random Phone Unlocking,Phone Usage,11.0,Non-Productive,23:41,23:52
+400,2025-10-09,Social Media Scrolling,Social Media,35.0,Non-Productive,08:11,08:46
+401,2025-10-09,Social Media Scrolling,Social Media,35.0,Non-Productive,09:43,10:18
+402,2025-10-09,Waiting for Public Transport,Waiting,7.0,Non-Productive,10:57,11:04
+403,2025-10-09,Messaging / Chat Apps,Phone Usage,17.0,Non-Productive,11:48,12:05
+404,2025-10-09,Short Video Binge (Reels/Shorts),Social Media,74.0,Non-Productive,19:54,21:08
+405,2025-10-09,YouTube Browsing,Entertainment,38.0,Non-Productive,23:44,00:22
+406,2025-10-10,Daydreaming / Zoning Out,Idle Time,25.0,Non-Productive,08:05,08:30
+407,2025-10-10,Random Phone Unlocking,Phone Usage,4.0,Non-Productive,08:21,08:25
+408,2025-10-10,Waiting in Queue (Billing/Counter),Waiting,25.0,Non-Productive,10:05,10:30
+409,2025-10-10,Searching for Misplaced Items,Idle Time,6.0,Non-Productive,11:47,11:53
+410,2025-10-10,Traffic / Commute Delay,Traffic,44.0,Non-Productive,14:14,14:58
+411,2025-10-10,Short Video Binge (Reels/Shorts),Social Media,19.0,Non-Productive,16:28,16:47
+412,2025-10-10,Reading a Book,Learning,43.0,Productive,19:05,19:48
+413,2025-10-10,Deep Work / Study Session,Productive Work,85.0,Productive,20:20,21:45
+414,2025-10-10,Sleep Routine / Wind Down,Daily Living,34.0,Productive,21:27,22:01
+415,2025-10-10,Messaging / Chat Apps,Phone Usage,27.0,Non-Productive,23:47,00:14
+416,2025-10-11,Procrastination Breaks,Idle Time,40.0,Non-Productive,10:08,10:48
+417,2025-10-11,Traffic / Commute Delay,Traffic,44.0,Non-Productive,10:46,11:30
+418,2025-10-11,Messaging / Chat Apps,Phone Usage,34.0,Non-Productive,12:43,13:17
+419,2025-10-11,Focused Project Work,Productive Work,76.0,Productive,13:19,14:35
+420,2025-10-11,Social Media Scrolling,Social Media,58.0,Non-Productive,15:26,16:24
+421,2025-10-11,Daydreaming / Zoning Out,Idle Time,23.0,Non-Productive,17:24,17:47
+422,2025-10-11,Random Phone Unlocking,Phone Usage,7.0,Non-Productive,18:20,18:27
+423,2025-10-11,Choosing What to Watch,Decision Fatigue,14.0,Non-Productive,21:23,21:37
+424,2025-10-11,Streaming TV/Web Series,Entertainment,94.0,Non-Productive,21:50,23:24
+425,2025-10-11,Sleep Routine / Wind Down,Daily Living,38.0,Productive,22:38,23:16
+426,2025-10-11,YouTube Browsing,Entertainment,90.0,Non-Productive,23:52,01:22
+427,2025-10-12,Traffic / Commute Delay,Traffic,10.0,Non-Productive,07:36,07:46
+428,2025-10-12,Random Phone Unlocking,Phone Usage,13.0,Non-Productive,13:28,13:41
+429,2025-10-12,Overthinking / Indecision,Decision Fatigue,32.0,Non-Productive,16:14,16:46
+430,2025-10-12,Stuck in Traffic Signal Jams,Traffic,14.0,Non-Productive,18:09,18:23
+431,2025-10-12,Procrastination Breaks,Idle Time,14.0,Non-Productive,21:15,21:29
+432,2025-10-12,Checking Notifications,Phone Usage,7.0,Non-Productive,21:37,21:44
+433,2025-10-12,Deep Work / Study Session,Productive Work,37.0,Productive,22:51,23:28
+434,2025-10-12,Streaming TV/Web Series,Entertainment,63.0,,23:21,00:24
+435,2025-10-12,Choosing What to Watch,Decision Fatigue,15.0,Non-Productive,23:26,23:41
+436,2025-10-13,Social Media Scrolling,Social Media,40.0,Non-Productive,07:47,08:27
+437,2025-10-13,Waiting in Queue (Billing/Counter),Waiting,19.0,Non-Productive,11:23,11:42
+438,2025-10-13,Short Video Binge (Reels/Shorts),Social Media,39.0,Non-Productive,13:11,13:50
+439,2025-10-13,Deep Work / Study Session,Productive Work,89.0,Productive,14:00,15:29
+440,2025-10-13,Procrastination Breaks,Idle Time,35.0,Non-Productive,15:37,16:12
+441,2025-10-13,Waiting in Queue (Billing/Counter),Waiting,10.0,Non-Productive,16:33,16:43
+442,2025-10-13,Waiting in Queue (Billing/Counter),Waiting,12.0,Non-Productive,18:05,18:17
+443,2025-10-13,Streaming TV/Web Series,Entertainment,79.0,Non-Productive,18:52,20:11
+444,2025-10-13,Reading a Book,Learning,36.0,Productive,19:40,20:16
+445,2025-10-13,Daydreaming / Zoning Out,Idle Time,5.0,Non-Productive,20:50,20:55
+446,2025-10-13,Sleep Routine / Wind Down,Daily Living,37.0,Productive,23:07,23:44
+447,2025-10-13,Streaming TV/Web Series,Entertainment,35.0,Non-Productive,23:10,23:45
+448,2025-10-13,Checking Notifications,Phone Usage,1.0,Non-Productive,23:10,23:11
+449,2025-10-13,Short Video Binge (Reels/Shorts),Social Media,51.0,Non-Productive,23:44,00:35
+450,2025-10-14,Reading a Book,Learning,43.0,Productive,07:50,08:33
+451,2025-10-14,YouTube Browsing,Entertainment,28.0,Non-Productive,14:08,14:36
+452,2025-10-14,YouTube Browsing,Entertainment,30.0,Non-Productive,16:45,17:15
+453,2025-10-14,Online Course / Tutorial,Learning,45.0,Productive,17:18,18:03
+454,2025-10-14,Messaging / Chat Apps,Phone Usage,20.0,Non-Productive,18:34,18:54
+455,2025-10-14,Traffic / Commute Delay,Traffic,41.0,Non-Productive,20:22,21:03
+456,2025-10-14,Streaming TV/Web Series,Entertainment,93.0,Non-Productive,20:35,22:08
+457,2025-10-14,Messaging / Chat Apps,Phone Usage,14.0,Non-Productive,22:35,22:49
+458,2025-10-15,Random Phone Unlocking,Phone Usage,8.0,Non-Productive,09:08,09:16
+459,2025-10-15,Traffic / Commute Delay,Traffic,33.0,Non-Productive,09:50,10:23
+460,2025-10-15,Social Media Scrolling,Social Media,38.0,Non-Productive,11:45,12:23
+461,2025-10-15,Daydreaming / Zoning Out,Idle Time,12.0,Non-Productive,13:34,13:46
+462,2025-10-15,Deep Work / Study Session,Productive Work,72.0,Productive,13:54,15:06
+463,2025-10-15,Exercise / Workout,Health,37.0,Productive,13:55,14:32
+464,2025-10-15,Focused Project Work,Productive Work,96.0,Productive,15:28,17:04
+465,2025-10-15,Focused Project Work,Productive Work,,Productive,16:31,18:44
+466,2025-10-15,Overthinking / Indecision,Decision Fatigue,44.0,Non-Productive,17:18,18:02
+467,2025-10-15,Random Phone Unlocking,Phone Usage,4.0,Non-Productive,17:55,17:59
+468,2025-10-15,Random Phone Unlocking,Phone Usage,7.0,Non-Productive,18:31,18:38
+469,2025-10-15,Social Media Scrolling,Social Media,44.0,Non-Productive,19:32,20:16
+470,2025-10-15,Messaging / Chat Apps,Phone Usage,18.0,Non-Productive,20:52,21:10
+471,2025-10-15,Short Video Binge (Reels/Shorts),Social Media,39.0,Non-Productive,23:05,23:44
+472,2025-10-16,Social Media Scrolling,Social Media,39.0,Non-Productive,07:00,07:39
+473,2025-10-16,Social Media Scrolling,Social Media,33.0,Non-Productive,11:24,11:57
+474,2025-10-16,Exercise / Workout,Health,44.0,,12:27,13:11
+475,2025-10-16,YouTube Browsing,Entertainment,10.0,Non-Productive,12:28,12:38
+476,2025-10-16,Focused Project Work,Productive Work,156.0,Productive,13:05,15:41
+477,2025-10-16,Online Course / Tutorial,Learning,38.0,Productive,19:09,19:47
+478,2025-10-16,Procrastination Breaks,Idle Time,46.0,Non-Productive,19:10,19:56
+479,2025-10-16,Focused Project Work,Productive Work,146.0,Productive,20:51,23:17
+480,2025-10-16,Overthinking / Indecision,Decision Fatigue,45.0,Non-Productive,21:44,22:29
+481,2025-10-16,Searching for Misplaced Items,Idle Time,13.0,Non-Productive,22:04,22:17
+482,2025-10-16,Short Video Binge (Reels/Shorts),Social Media,19.0,Non-Productive,23:58,00:17
+483,2025-10-17,Social Media Scrolling,Social Media,48.0,Non-Productive,07:23,08:11
+484,2025-10-17,Stuck in Traffic Signal Jams,Traffic,8.0,Non-Productive,09:08,09:16
+485,2025-10-17,Focused Project Work,Productive Work,168.0,Productive,10:15,13:03
+486,2025-10-17,Daydreaming / Zoning Out,Idle Time,24.0,Non-Productive,14:20,14:44
+487,2025-10-17,Overthinking / Indecision,Decision Fatigue,17.0,Non-Productive,15:35,15:52
+488,2025-10-17,Traffic / Commute Delay,Traffic,31.0,Non-Productive,15:38,16:09
+489,2025-10-17,Choosing What to Watch,Decision Fatigue,6.0,Non-Productive,18:50,18:56
+490,2025-10-17,Short Video Binge (Reels/Shorts),Social Media,21.0,Non-Productive,23:01,23:22
+491,2025-10-18,Social Media Scrolling,Social Media,,Non-Productive,07:45,08:04
+492,2025-10-18,Social Media Scrolling,Social Media,43.0,Non-Productive,08:19,09:02
+493,2025-10-18,Procrastination Breaks,Idle Time,44.0,Non-Productive,09:15,09:59
+494,2025-10-18,Meal Preparation / Eating,Daily Living,24.0,Productive,09:19,09:43
+495,2025-10-18,Social Media Scrolling,Social Media,14.0,Non-Productive,10:49,11:03
+496,2025-10-18,Searching for Misplaced Items,Idle Time,11.0,Non-Productive,13:51,14:02
+497,2025-10-18,Choosing What to Eat,Decision Fatigue,22.0,Non-Productive,16:09,16:31
+498,2025-10-18,Procrastination Breaks,Idle Time,37.0,Non-Productive,17:04,17:41
+499,2025-10-18,Random Phone Unlocking,Phone Usage,7.0,Non-Productive,17:33,17:40
+500,2025-10-18,Social Media Scrolling,Social Media,21.0,Non-Productive,18:08,18:29
+501,2025-10-18,Waiting for Public Transport,Waiting,17.0,Non-Productive,20:27,20:44
+502,2025-10-18,Streaming TV/Web Series,Entertainment,117.0,Non-Productive,20:29,22:26
+503,2025-10-19,Waiting for Public Transport,Waiting,8.0,Non-Productive,07:15,07:23
+504,2025-10-19,Random Phone Unlocking,Phone Usage,4.0,Non-Productive,07:25,07:29
+505,2025-10-19,Random Phone Unlocking,Phone Usage,9.0,Non-Productive,11:59,12:08
+506,2025-10-19,Social Media Scrolling,Social Media,22.0,Non-Productive,13:18,13:40
+507,2025-10-19,Daydreaming / Zoning Out,Idle Time,17.0,Non-Productive,16:43,17:00
+508,2025-10-19,YouTube Browsing,Entertainment,40.0,Non-Productive,21:20,22:00
+509,2025-10-19,Streaming TV/Web Series,Entertainment,71.0,,23:19,00:30
+510,2025-10-19,Short Video Binge (Reels/Shorts),Social Media,36.0,Non-Productive,23:47,00:23
+511,2025-10-20,Waiting for Public Transport,,19.0,Non-Productive,07:21,07:40
+512,2025-10-20,Social Media Scrolling,Social Media,46.0,Non-Productive,10:09,10:55
+513,2025-10-20,Procrastination Breaks,Idle Time,33.0,Non-Productive,11:15,11:48
+514,2025-10-20,YouTube Browsing,Entertainment,16.0,Non-Productive,11:34,11:50
+515,2025-10-20,Online Course / Tutorial,Learning,56.0,Productive,12:04,13:00
+516,2025-10-20,YouTube Browsing,Entertainment,65.0,Non-Productive,16:04,17:09
+517,2025-10-20,Meal Preparation / Eating,Daily Living,32.0,Productive,16:06,16:38
+518,2025-10-20,Short Video Binge (Reels/Shorts),Social Media,30.0,Non-Productive,18:44,19:14
+519,2025-10-20,Daydreaming / Zoning Out,Idle Time,17.0,Non-Productive,19:05,19:22
+520,2025-10-20,Choosing What to Watch,Decision Fatigue,8.0,Non-Productive,20:52,21:00
+521,2025-10-20,Sleep Routine / Wind Down,Daily Living,23.0,Productive,21:09,21:32
+522,2025-10-20,Overthinking / Indecision,Decision Fatigue,30.0,Non-Productive,22:16,22:46
+523,2025-10-20,Procrastination Breaks,Idle Time,17.0,Non-Productive,22:33,22:50
+524,2025-10-21,Traffic / Commute Delay,Traffic,16.0,Non-Productive,08:37,08:53
+525,2025-10-21,Daydreaming / Zoning Out,Idle Time,15.0,Non-Productive,09:00,09:15
+526,2025-10-21,Social Media Scrolling,Social Media,35.0,Non-Productive,09:12,09:47
+527,2025-10-21,YouTube Browsing,Entertainment,25.0,Non-Productive,11:17,11:42
+528,2025-10-21,Meal Preparation / Eating,Daily Living,16.0,Productive,13:52,14:08
+529,2025-10-21,Checking Notifications,Phone Usage,6.0,Non-Productive,16:07,16:13
+530,2025-10-21,Deep Work / Study Session,Productive Work,62.0,Productive,17:27,18:29
+531,2025-10-21,Focused Project Work,Productive Work,102.0,Productive,19:18,21:00
+532,2025-10-21,Messaging / Chat Apps,Phone Usage,27.0,Non-Productive,20:11,20:38
+533,2025-10-21,Short Video Binge (Reels/Shorts),Social Media,61.0,Non-Productive,20:15,21:16
+534,2025-10-21,Meal Preparation / Eating,Daily Living,17.0,Productive,21:56,22:13
+535,2025-10-22,Random Phone Unlocking,Phone Usage,5.0,Non-Productive,06:57,07:02
+536,2025-10-22,Social Media Scrolling,Social Media,29.0,Non-Productive,08:48,09:17
+537,2025-10-22,Social Media Scrolling,Social Media,43.0,Non-Productive,10:54,11:37
+538,2025-10-22,Procrastination Breaks,Idle Time,14.0,Non-Productive,11:36,11:50
+539,2025-10-22,Daydreaming / Zoning Out,Idle Time,17.0,Non-Productive,11:37,11:54
+540,2025-10-22,YouTube Browsing,Entertainment,32.0,Non-Productive,12:06,12:38
+541,2025-10-22,YouTube Browsing,Entertainment,78.0,,13:38,14:56
+542,2025-10-22,Checking Notifications,Phone Usage,3.0,Non-Productive,16:03,16:06
+543,2025-10-22,Waiting in Queue (Billing/Counter),Waiting,23.0,Non-Productive,16:34,16:57
+544,2025-10-22,Waiting in Queue (Billing/Counter),Waiting,5.0,Non-Productive,18:12,18:17
+545,2025-10-22,Waiting for Public Transport,Waiting,23.0,Non-Productive,19:22,19:45
+546,2025-10-22,Online Gaming,Entertainment,62.0,Non-Productive,20:37,21:39
+547,2025-10-22,Streaming TV/Web Series,Entertainment,90.0,Non-Productive,21:01,22:31
+548,2025-10-22,Sleep Routine / Wind Down,Daily Living,25.0,Productive,22:33,22:58
+549,2025-10-23,Overthinking / Indecision,Decision Fatigue,25.0,Non-Productive,08:44,09:09
+550,2025-10-23,Daydreaming / Zoning Out,Idle Time,24.0,Non-Productive,13:47,14:11
+551,2025-10-23,Stuck in Traffic Signal Jams,Traffic,17.0,Non-Productive,14:19,14:36
+552,2025-10-23,Exercise / Workout,,41.0,Productive,15:28,16:09
+553,2025-10-23,Daydreaming / Zoning Out,Idle Time,25.0,Non-Productive,17:50,18:15
+554,2025-10-23,Waiting in Queue (Billing/Counter),Waiting,28.0,Non-Productive,18:14,18:42
+555,2025-10-23,YouTube Browsing,Entertainment,56.0,Non-Productive,20:56,21:52
+556,2025-10-23,Streaming TV/Web Series,Entertainment,66.0,Non-Productive,21:02,22:08
+557,2025-10-24,Meal Preparation / Eating,Daily Living,50.0,Productive,07:27,08:17
+558,2025-10-24,Daydreaming / Zoning Out,Idle Time,25.0,Non-Productive,09:21,09:46
+559,2025-10-24,Exercise / Workout,Health,59.0,Productive,10:03,11:02
+560,2025-10-24,Short Video Binge (Reels/Shorts),Social Media,41.0,Non-Productive,14:28,15:09
+561,2025-10-24,Waiting for Public Transport,Waiting,25.0,Non-Productive,16:19,16:44
+562,2025-10-24,Short Video Binge (Reels/Shorts),Social Media,10.0,Non-Productive,16:52,17:02
+563,2025-10-24,Social Media Scrolling,Social Media,40.0,Non-Productive,17:16,17:56
+564,2025-10-24,Waiting for Public Transport,Waiting,14.0,Non-Productive,19:10,19:24
+565,2025-10-24,Random Phone Unlocking,Phone Usage,6.0,Non-Productive,21:50,21:56
+566,2025-10-24,Streaming TV/Web Series,Entertainment,61.0,Non-Productive,22:35,23:36
+567,2025-10-24,YouTube Browsing,Entertainment,41.0,Non-Productive,23:31,00:12
+568,2025-10-25,Meal Preparation / Eating,Daily Living,29.0,Productive,08:16,08:45
+569,2025-10-25,Procrastination Breaks,Idle Time,31.0,Non-Productive,12:35,13:06
+570,2025-10-25,Overthinking / Indecision,Decision Fatigue,6.0,Non-Productive,20:11,20:17
+571,2025-10-25,Streaming TV/Web Series,Entertainment,70.0,Non-Productive,21:03,22:13
+572,2025-10-25,Short Video Binge (Reels/Shorts),Social Media,83.0,Non-Productive,22:22,23:45
+573,2025-10-25,Messaging / Chat Apps,Phone Usage,12.0,Non-Productive,22:31,22:43
+574,2025-10-26,Random Phone Unlocking,Phone Usage,8.0,Non-Productive,08:05,08:13
+575,2025-10-26,Social Media Scrolling,Social Media,40.0,Non-Productive,10:36,11:16
+576,2025-10-26,Focused Project Work,Productive Work,147.0,Productive,11:36,14:03
+577,2025-10-26,Online Course / Tutorial,Learning,69.0,Productive,12:08,13:17
+578,2025-10-26,YouTube Browsing,Entertainment,10.0,Non-Productive,13:52,14:02
+579,2025-10-26,Checking Notifications,Phone Usage,7.0,Non-Productive,14:33,14:40
+580,2025-10-26,YouTube Browsing,Entertainment,41.0,Non-Productive,15:56,16:37
+581,2025-10-26,Traffic / Commute Delay,Traffic,18.0,Non-Productive,16:37,16:55
+582,2025-10-26,Short Video Binge (Reels/Shorts),Social Media,54.0,Non-Productive,17:01,17:55
+583,2025-10-26,YouTube Browsing,Entertainment,90.0,Non-Productive,19:43,21:13
+584,2025-10-26,Choosing What to Watch,Decision Fatigue,10.0,Non-Productive,21:11,21:21
+585,2025-10-26,Streaming TV/Web Series,Entertainment,85.0,Non-Productive,21:30,22:55
+586,2025-10-26,Sleep Routine / Wind Down,Daily Living,26.0,Productive,22:44,23:10
+587,2025-10-26,Meal Preparation / Eating,Daily Living,28.0,Productive,22:54,23:22
+588,2025-10-27,Social Media Scrolling,Social Media,40.0,Non-Productive,07:15,07:55
+589,2025-10-27,Daydreaming / Zoning Out,Idle Time,18.0,Non-Productive,08:29,08:47
+590,2025-10-27,Searching for Misplaced Items,Idle Time,15.0,Non-Productive,08:32,08:47
+591,2025-10-27,Waiting in Queue (Billing/Counter),Waiting,20.0,Non-Productive,11:12,11:32
+592,2025-10-27,Procrastination Breaks,Idle Time,17.0,Non-Productive,15:08,15:25
+593,2025-10-27,Stuck in Traffic Signal Jams,Traffic,31.0,Non-Productive,15:37,16:08
+594,2025-10-27,Checking Notifications,Phone Usage,3.0,Non-Productive,19:47,19:50
+595,2025-10-27,Online Gaming,Entertainment,80.0,Non-Productive,19:52,21:12
+596,2025-10-28,Checking Notifications,Phone Usage,3.0,Non-Productive,06:14,06:17
+597,2025-10-28,Choosing What to Eat,Decision Fatigue,17.0,Non-Productive,10:09,10:26
+598,2025-10-28,Focused Project Work,Productive Work,137.0,Productive,10:30,12:47
+599,2025-10-28,Messaging / Chat Apps,Phone Usage,24.0,Non-Productive,13:29,13:53
+600,2025-10-28,Waiting for Public Transport,Waiting,14.0,Non-Productive,15:27,15:41
+601,2025-10-28,Searching for Misplaced Items,Idle Time,9.0,Non-Productive,15:41,15:50
+602,2025-10-28,Overthinking / Indecision,Decision Fatigue,38.0,Non-Productive,16:16,16:54
+603,2025-10-28,Meal Preparation / Eating,Daily Living,24.0,Productive,18:35,18:59
+604,2025-10-28,YouTube Browsing,,65.0,Non-Productive,19:06,20:11
+605,2025-10-28,Choosing What to Watch,Decision Fatigue,10.0,Non-Productive,23:00,23:10
+606,2025-10-29,Daydreaming / Zoning Out,Idle Time,40.0,Non-Productive,08:55,09:35
+607,2025-10-29,Traffic / Commute Delay,Traffic,41.0,Non-Productive,11:29,12:10
+608,2025-10-29,Messaging / Chat Apps,Phone Usage,22.0,Non-Productive,12:49,13:11
+609,2025-10-29,Random Phone Unlocking,Phone Usage,10.0,Non-Productive,15:26,15:36
+610,2025-10-29,YouTube Browsing,Entertainment,52.0,Non-Productive,16:36,17:28
+611,2025-10-29,Traffic / Commute Delay,Traffic,47.0,Non-Productive,16:37,17:24
+612,2025-10-29,Overthinking / Indecision,Decision Fatigue,7.0,Non-Productive,16:46,16:53
+613,2025-10-29,Choosing What to Eat,Decision Fatigue,24.0,Non-Productive,18:45,19:09
+614,2025-10-29,Daydreaming / Zoning Out,Idle Time,11.0,Non-Productive,18:56,19:07
+615,2025-10-29,Choosing What to Eat,Decision Fatigue,11.0,Non-Productive,21:42,21:53
+616,2025-10-29,Social Media Scrolling,Social Media,18.0,Non-Productive,23:07,23:25
+617,2025-10-29,Sleep Routine / Wind Down,Daily Living,36.0,Productive,23:57,00:33
+618,2025-10-30,Overthinking / Indecision,Decision Fatigue,23.0,Non-Productive,09:24,09:47
+619,2025-10-30,Procrastination Breaks,Idle Time,45.0,Non-Productive,12:10,12:55
+620,2025-10-30,Procrastination Breaks,Idle Time,48.0,Non-Productive,13:29,14:17
+621,2025-10-30,Social Media Scrolling,Social Media,,Non-Productive,13:46,14:28
+622,2025-10-30,Social Media Scrolling,Social Media,27.0,Non-Productive,14:14,14:41
+623,2025-10-30,Searching for Misplaced Items,Idle Time,8.0,Non-Productive,14:44,14:52
+624,2025-10-30,Overthinking / Indecision,Decision Fatigue,32.0,Non-Productive,20:27,20:59
+625,2025-10-30,Streaming TV/Web Series,Entertainment,103.0,Non-Productive,22:08,23:51
+626,2025-10-30,Checking Notifications,Phone Usage,,Non-Productive,22:12,22:18
+627,2025-10-30,Online Gaming,Entertainment,41.0,Non-Productive,23:32,00:13
+628,2025-10-30,Messaging / Chat Apps,Phone Usage,25.0,Non-Productive,23:37,00:02
+629,2025-10-31,Short Video Binge (Reels/Shorts),Social Media,16.0,Non-Productive,13:42,13:58
+630,2025-10-31,Social Media Scrolling,Social Media,,Non-Productive,13:44,14:35
+631,2025-10-31,Focused Project Work,Productive Work,162.0,Productive,15:53,18:35
+632,2025-10-31,Social Media Scrolling,Social Media,32.0,Non-Productive,16:07,16:39
+633,2025-10-31,Short Video Binge (Reels/Shorts),Social Media,41.0,Non-Productive,16:53,17:34
+634,2025-10-31,Online Gaming,Entertainment,68.0,Non-Productive,21:24,22:32
+635,2025-11-01,Social Media Scrolling,Social Media,60.0,Non-Productive,10:25,11:25
+636,2025-11-01,Random Phone Unlocking,Phone Usage,3.0,Non-Productive,10:42,10:45
+637,2025-11-01,YouTube Browsing,Entertainment,19.0,Non-Productive,12:07,12:26
+638,2025-11-01,Social Media Scrolling,Social Media,29.0,Non-Productive,15:56,16:25
+639,2025-11-01,Reading a Book,Learning,46.0,Productive,16:16,17:02
+640,2025-11-01,Choosing What to Watch,Decision Fatigue,11.0,Non-Productive,18:54,19:05
+641,2025-11-01,YouTube Browsing,Entertainment,16.0,Non-Productive,21:06,21:22
+642,2025-11-01,Streaming TV/Web Series,Entertainment,37.0,Non-Productive,22:07,22:44
+643,2025-11-01,Messaging / Chat Apps,Phone Usage,12.0,Non-Productive,22:09,22:21
+644,2025-11-01,Short Video Binge (Reels/Shorts),Social Media,44.0,Non-Productive,23:54,00:38
+645,2025-11-02,Stuck in Traffic Signal Jams,Traffic,20.0,Non-Productive,13:33,13:53
+646,2025-11-02,Online Gaming,Entertainment,97.0,Non-Productive,16:32,18:09
+647,2025-11-02,Online Gaming,Entertainment,85.0,Non-Productive,17:30,18:55
+648,2025-11-02,YouTube Browsing,Entertainment,48.0,Non-Productive,21:36,22:24
+649,2025-11-02,Reading a Book,Learning,34.0,Productive,22:07,22:41
+650,2025-11-02,Streaming TV/Web Series,,20.0,Non-Productive,22:20,22:40
+651,2025-11-02,Procrastination Breaks,Idle Time,48.0,Non-Productive,22:52,23:40
+652,2025-11-02,Short Video Binge (Reels/Shorts),Social Media,45.0,Non-Productive,22:56,23:41
+653,2025-11-03,Checking Notifications,Phone Usage,5.0,Non-Productive,08:50,08:55
+654,2025-11-03,Waiting in Queue (Billing/Counter),Waiting,35.0,Non-Productive,09:06,09:41
+655,2025-11-03,Searching for Misplaced Items,Idle Time,10.0,Non-Productive,14:05,14:15
+656,2025-11-03,YouTube Browsing,Entertainment,49.0,Non-Productive,15:52,16:41
+657,2025-11-03,Waiting in Queue (Billing/Counter),Waiting,11.0,Non-Productive,16:28,16:39
+658,2025-11-03,Streaming TV/Web Series,Entertainment,70.0,Non-Productive,21:35,22:45
+659,2025-11-03,Waiting for Public Transport,Waiting,18.0,Non-Productive,22:45,23:03
+660,2025-11-04,Overthinking / Indecision,Decision Fatigue,19.0,Non-Productive,11:48,12:07
+661,2025-11-04,Short Video Binge (Reels/Shorts),Social Media,52.0,Non-Productive,14:44,15:36
+662,2025-11-04,Waiting in Queue (Billing/Counter),Waiting,15.0,Non-Productive,15:13,15:28
+663,2025-11-04,Deep Work / Study Session,Productive Work,89.0,Productive,17:07,18:36
+664,2025-11-04,YouTube Browsing,Entertainment,,Non-Productive,18:08,18:47
+665,2025-11-04,Reading a Book,Learning,34.0,Productive,19:42,20:16
+666,2025-11-04,Social Media Scrolling,Social Media,32.0,Non-Productive,20:06,20:38
+667,2025-11-04,Streaming TV/Web Series,Entertainment,107.0,Non-Productive,20:26,22:13
+668,2025-11-04,Waiting for Public Transport,Waiting,13.0,Non-Productive,20:53,21:06
+669,2025-11-05,Exercise / Workout,Health,28.0,Productive,08:01,08:29
+670,2025-11-05,Checking Notifications,Phone Usage,8.0,Non-Productive,10:45,10:53
+671,2025-11-05,Focused Project Work,Productive Work,63.0,Productive,11:53,12:56
+672,2025-11-05,Waiting in Queue (Billing/Counter),Waiting,28.0,Non-Productive,12:39,13:07
+673,2025-11-05,Traffic / Commute Delay,Traffic,10.0,Non-Productive,12:45,12:55
+674,2025-11-05,YouTube Browsing,Entertainment,85.0,Non-Productive,18:02,19:27
+675,2025-11-05,Short Video Binge (Reels/Shorts),Social Media,43.0,Non-Productive,19:37,20:20
+676,2025-11-05,Deep Work / Study Session,Productive Work,30.0,Productive,19:40,20:10
+677,2025-11-05,Streaming TV/Web Series,Entertainment,50.0,Non-Productive,19:48,20:38
+678,2025-11-05,Online Gaming,Entertainment,57.0,,22:18,23:15
+679,2025-11-06,Focused Project Work,Productive Work,140.0,Productive,09:47,12:07
+680,2025-11-06,YouTube Browsing,Entertainment,73.0,Non-Productive,10:07,11:20
+681,2025-11-06,Procrastination Breaks,Idle Time,21.0,Non-Productive,11:47,12:08
+682,2025-11-06,Random Phone Unlocking,Phone Usage,4.0,Non-Productive,12:18,12:22
+683,2025-11-06,Meal Preparation / Eating,Daily Living,38.0,Productive,12:26,13:04
+684,2025-11-06,Choosing What to Eat,Decision Fatigue,18.0,Non-Productive,12:38,12:56
+685,2025-11-06,Meal Preparation / Eating,Daily Living,36.0,Productive,13:42,14:18
+686,2025-11-06,YouTube Browsing,Entertainment,64.0,Non-Productive,15:48,16:52
+687,2025-11-06,Deep Work / Study Session,Productive Work,104.0,Productive,16:16,18:00
+688,2025-11-06,Checking Notifications,Phone Usage,2.0,Non-Productive,16:29,16:31
+689,2025-11-06,Waiting for Public Transport,Waiting,15.0,Non-Productive,17:33,17:48
+690,2025-11-06,Online Course / Tutorial,Learning,50.0,Productive,19:19,20:09
+691,2025-11-06,Searching for Misplaced Items,Idle Time,16.0,Non-Productive,21:53,22:09
+692,2025-11-06,Checking Notifications,Phone Usage,4.0,Non-Productive,22:30,22:34
+693,2025-11-07,Checking Notifications,Phone Usage,5.0,Non-Productive,08:36,08:41
+694,2025-11-07,Waiting for Public Transport,Waiting,9.0,Non-Productive,09:47,09:56
+695,2025-11-07,YouTube Browsing,Entertainment,68.0,Non-Productive,10:05,11:13
+696,2025-11-07,Waiting in Queue (Billing/Counter),Waiting,,Non-Productive,11:49,12:13
+697,2025-11-07,Reading a Book,Learning,34.0,Productive,13:55,14:29
+698,2025-11-07,Meal Preparation / Eating,Daily Living,23.0,Productive,18:32,18:55
+699,2025-11-07,Reading a Book,Learning,31.0,Productive,21:40,22:11
+700,2025-11-07,Choosing What to Eat,Decision Fatigue,18.0,Non-Productive,21:41,21:59
+701,2025-11-07,Online Course / Tutorial,Learning,60.0,Productive,22:44,23:44
+702,2025-11-08,Online Gaming,Entertainment,30.0,Non-Productive,14:30,15:00
+703,2025-11-08,Social Media Scrolling,Social Media,61.0,Non-Productive,16:13,17:14
+704,2025-11-08,Searching for Misplaced Items,Idle Time,4.0,Non-Productive,16:40,16:44
+705,2025-11-08,Overthinking / Indecision,Decision Fatigue,17.0,Non-Productive,17:48,18:05
+706,2025-11-08,YouTube Browsing,Entertainment,70.0,Non-Productive,18:06,19:16
+707,2025-11-08,Choosing What to Watch,Decision Fatigue,6.0,Non-Productive,18:36,18:42
+708,2025-11-08,Online Gaming,Entertainment,83.0,Non-Productive,19:00,20:23
+709,2025-11-09,Searching for Misplaced Items,Idle Time,9.0,Non-Productive,09:46,09:55
+710,2025-11-09,Focused Project Work,Productive Work,168.0,Productive,10:12,13:00
+711,2025-11-09,Messaging / Chat Apps,Phone Usage,20.0,Non-Productive,13:20,13:40
+712,2025-11-09,YouTube Browsing,Entertainment,52.0,Non-Productive,14:31,15:23
+713,2025-11-09,Short Video Binge (Reels/Shorts),Social Media,54.0,Non-Productive,14:42,15:36
+714,2025-11-09,Social Media Scrolling,Social Media,37.0,Non-Productive,15:54,16:31
+715,2025-11-09,Choosing What to Eat,Decision Fatigue,20.0,Non-Productive,18:21,18:41
+716,2025-11-09,Random Phone Unlocking,,9.0,Non-Productive,19:10,19:19
+717,2025-11-09,Reading a Book,Learning,15.0,Productive,21:41,21:56
+718,2025-11-09,Sleep Routine / Wind Down,Daily Living,24.0,Productive,21:52,22:16
+719,2025-11-09,Online Gaming,Entertainment,53.0,Non-Productive,23:09,00:02
+720,2025-11-09,Short Video Binge (Reels/Shorts),Social Media,49.0,Non-Productive,23:41,00:30
+721,2025-11-10,YouTube Browsing,Entertainment,56.0,Non-Productive,13:57,14:53
+722,2025-11-10,YouTube Browsing,Entertainment,15.0,Non-Productive,17:32,17:47
+723,2025-11-10,Waiting for Public Transport,Waiting,16.0,Non-Productive,18:02,18:18
+724,2025-11-10,Procrastination Breaks,Idle Time,29.0,Non-Productive,18:42,19:11
+725,2025-11-10,Streaming TV/Web Series,Entertainment,88.0,Non-Productive,18:48,20:16
+726,2025-11-10,Sleep Routine / Wind Down,Daily Living,14.0,Productive,23:15,23:29
+727,2025-11-11,Waiting for Public Transport,Waiting,18.0,Non-Productive,07:32,07:50
+728,2025-11-11,Exercise / Workout,Health,53.0,Productive,08:42,09:35
+729,2025-11-11,Meal Preparation / Eating,Daily Living,34.0,Productive,12:16,12:50
+730,2025-11-11,Choosing What to Eat,Decision Fatigue,16.0,Non-Productive,13:41,13:57
+731,2025-11-11,Short Video Binge (Reels/Shorts),Social Media,59.0,Non-Productive,14:40,15:39
+732,2025-11-11,Random Phone Unlocking,Phone Usage,8.0,Non-Productive,14:53,15:01
+733,2025-11-11,Procrastination Breaks,Idle Time,18.0,Non-Productive,15:22,15:40
+734,2025-11-11,Streaming TV/Web Series,Entertainment,56.0,Non-Productive,17:33,18:29
+735,2025-11-11,Overthinking / Indecision,Decision Fatigue,35.0,Non-Productive,21:01,21:36
+736,2025-11-11,Social Media Scrolling,Social Media,9.0,Non-Productive,22:43,22:52
+737,2025-11-11,Reading a Book,Learning,26.0,Productive,23:41,00:07
+738,2025-11-12,Messaging / Chat Apps,Phone Usage,9.0,Non-Productive,07:12,07:21
+739,2025-11-12,Daydreaming / Zoning Out,Idle Time,37.0,Non-Productive,10:50,11:27
+740,2025-11-12,Deep Work / Study Session,Productive Work,120.0,Productive,16:16,18:16
+741,2025-11-12,Online Gaming,Entertainment,51.0,Non-Productive,16:38,17:29
+742,2025-11-12,Online Course / Tutorial,Learning,22.0,Productive,18:37,18:59
+743,2025-11-12,Exercise / Workout,Health,61.0,Productive,20:55,21:56
+744,2025-11-13,Exercise / Workout,Health,47.0,Productive,05:57,06:44
+745,2025-11-13,Choosing What to Eat,Decision Fatigue,11.0,Non-Productive,10:58,11:09
+746,2025-11-13,YouTube Browsing,Entertainment,60.0,Non-Productive,16:23,17:23
+747,2025-11-13,Reading a Book,Learning,30.0,Productive,20:16,20:46
+748,2025-11-13,Searching for Misplaced Items,Idle Time,8.0,Non-Productive,22:50,22:58
+749,2025-11-13,Short Video Binge (Reels/Shorts),Social Media,53.0,Non-Productive,23:36,00:29
+750,2025-11-14,Waiting for Public Transport,Waiting,11.0,Non-Productive,08:10,08:21
+751,2025-11-14,Waiting for Public Transport,Waiting,13.0,Non-Productive,08:50,09:03
+752,2025-11-14,Choosing What to Eat,Decision Fatigue,25.0,Non-Productive,09:05,09:30
+753,2025-11-14,Focused Project Work,Productive Work,72.0,Productive,09:49,11:01
+754,2025-11-14,Traffic / Commute Delay,Traffic,53.0,Non-Productive,10:54,11:47
+755,2025-11-14,Checking Notifications,Phone Usage,5.0,,11:43,11:48
+756,2025-11-14,Short Video Binge (Reels/Shorts),Social Media,90.0,Non-Productive,14:30,16:00
+757,2025-11-14,Overthinking / Indecision,Decision Fatigue,29.0,Non-Productive,15:23,15:52
+758,2025-11-14,Short Video Binge (Reels/Shorts),Social Media,21.0,Non-Productive,15:26,15:47
+759,2025-11-14,Waiting in Queue (Billing/Counter),Waiting,27.0,Non-Productive,17:25,17:52
+760,2025-11-14,Random Phone Unlocking,Phone Usage,8.0,Non-Productive,18:39,18:47
+761,2025-11-14,Choosing What to Watch,Decision Fatigue,7.0,Non-Productive,19:28,19:35
+762,2025-11-14,Overthinking / Indecision,Decision Fatigue,11.0,Non-Productive,20:47,20:58
+763,2025-11-14,Social Media Scrolling,Social Media,21.0,Non-Productive,22:16,22:37
+764,2025-11-15,Traffic / Commute Delay,Traffic,40.0,Non-Productive,10:29,11:09
+765,2025-11-15,Social Media Scrolling,Social Media,24.0,Non-Productive,10:51,11:15
+766,2025-11-15,Deep Work / Study Session,Productive Work,119.0,Productive,11:57,13:56
+767,2025-11-15,Random Phone Unlocking,Phone Usage,10.0,Non-Productive,12:31,12:41
+768,2025-11-15,Waiting in Queue (Billing/Counter),Waiting,24.0,Non-Productive,14:04,14:28
+769,2025-11-15,Reading a Book,Learning,57.0,Productive,14:48,15:45
+770,2025-11-15,YouTube Browsing,Entertainment,64.0,,15:26,16:30
+771,2025-11-15,Online Gaming,Entertainment,52.0,Non-Productive,18:15,19:07
+772,2025-11-15,Daydreaming / Zoning Out,Idle Time,38.0,Non-Productive,18:50,19:28
+773,2025-11-15,YouTube Browsing,Entertainment,37.0,Non-Productive,19:55,20:32
+774,2025-11-15,Messaging / Chat Apps,Phone Usage,32.0,Non-Productive,20:32,21:04
+775,2025-11-15,Choosing What to Watch,Decision Fatigue,11.0,Non-Productive,22:16,22:27
+776,2025-11-16,Messaging / Chat Apps,Phone Usage,6.0,Non-Productive,08:54,09:00
+777,2025-11-16,Choosing What to Eat,Decision Fatigue,18.0,Non-Productive,09:31,09:49
+778,2025-11-16,Reading a Book,Learning,22.0,Productive,10:20,10:42
+779,2025-11-16,Choosing What to Eat,Decision Fatigue,16.0,Non-Productive,11:15,11:31
+780,2025-11-16,Messaging / Chat Apps,Phone Usage,14.0,Non-Productive,15:31,15:45
+781,2025-11-16,Random Phone Unlocking,Phone Usage,7.0,Non-Productive,18:14,18:21
+782,2025-11-16,Short Video Binge (Reels/Shorts),Social Media,,Non-Productive,19:20,20:13
+783,2025-11-16,Online Gaming,Entertainment,82.0,Non-Productive,19:54,21:16
+784,2025-11-16,Overthinking / Indecision,Decision Fatigue,24.0,Non-Productive,21:30,21:54
+785,2025-11-16,Short Video Binge (Reels/Shorts),Social Media,62.0,Non-Productive,22:49,23:51
+786,2025-11-17,Deep Work / Study Session,Productive Work,122.0,Productive,08:11,10:13
+787,2025-11-17,Focused Project Work,Productive Work,42.0,Productive,10:28,11:10
+788,2025-11-17,YouTube Browsing,Entertainment,48.0,Non-Productive,12:03,12:51
+789,2025-11-17,Deep Work / Study Session,Productive Work,103.0,Productive,12:35,14:18
+790,2025-11-17,Messaging / Chat Apps,Phone Usage,25.0,Non-Productive,15:22,15:47
+791,2025-11-17,Searching for Misplaced Items,Idle Time,12.0,Non-Productive,16:22,16:34
+792,2025-11-17,Deep Work / Study Session,Productive Work,96.0,Productive,17:12,18:48
+793,2025-11-17,Daydreaming / Zoning Out,Idle Time,29.0,Non-Productive,18:33,19:02
+794,2025-11-17,Streaming TV/Web Series,Entertainment,38.0,Non-Productive,20:56,21:34
+795,2025-11-18,Reading a Book,Learning,48.0,Productive,09:06,09:54
+796,2025-11-18,Focused Project Work,Productive Work,64.0,Productive,14:14,15:18
+797,2025-11-18,Online Gaming,Entertainment,68.0,Non-Productive,15:13,16:21
+798,2025-11-18,Social Media Scrolling,Social Media,27.0,Non-Productive,19:19,19:46
+799,2025-11-18,Traffic / Commute Delay,Traffic,53.0,Non-Productive,20:01,20:54
+800,2025-11-18,Overthinking / Indecision,Decision Fatigue,35.0,Non-Productive,20:17,20:52
+801,2025-11-18,Online Course / Tutorial,Learning,54.0,Productive,20:37,21:31
+802,2025-11-18,Traffic / Commute Delay,Traffic,42.0,Non-Productive,21:30,22:12
+803,2025-11-19,Choosing What to Eat,Decision Fatigue,13.0,Non-Productive,14:34,14:47
+804,2025-11-19,Focused Project Work,Productive Work,,Productive,15:16,17:09
+805,2025-11-19,Social Media Scrolling,Social Media,28.0,Non-Productive,20:33,21:01
+806,2025-11-19,Focused Project Work,Productive Work,87.0,Productive,20:34,22:01
+807,2025-11-19,Meal Preparation / Eating,Daily Living,24.0,,20:51,21:15
+808,2025-11-19,Short Video Binge (Reels/Shorts),Social Media,51.0,Non-Productive,20:59,21:50
+809,2025-11-19,Waiting in Queue (Billing/Counter),Waiting,16.0,Non-Productive,21:54,22:10
+810,2025-11-19,Streaming TV/Web Series,Entertainment,101.0,Non-Productive,22:59,00:40
+811,2025-11-20,Random Phone Unlocking,Phone Usage,11.0,Non-Productive,07:21,07:32
+812,2025-11-20,Daydreaming / Zoning Out,Idle Time,31.0,Non-Productive,09:18,09:49
+813,2025-11-20,Exercise / Workout,Health,41.0,Productive,11:54,12:35
+814,2025-11-20,Deep Work / Study Session,Productive Work,98.0,Productive,12:50,14:28
+815,2025-11-20,Overthinking / Indecision,Decision Fatigue,10.0,Non-Productive,15:05,15:15
+816,2025-11-20,Messaging / Chat Apps,Phone Usage,19.0,Non-Productive,15:18,15:37
+817,2025-11-20,Stuck in Traffic Signal Jams,Traffic,35.0,Non-Productive,15:39,16:14
+818,2025-11-20,Social Media Scrolling,Social Media,36.0,Non-Productive,15:49,16:25
+819,2025-11-20,Random Phone Unlocking,Phone Usage,8.0,Non-Productive,16:01,16:09
+820,2025-11-20,Overthinking / Indecision,Decision Fatigue,,Non-Productive,16:52,17:27
+821,2025-11-20,Streaming TV/Web Series,Entertainment,57.0,Non-Productive,22:15,23:12
+822,2025-11-21,Traffic / Commute Delay,Traffic,68.0,Non-Productive,07:37,08:45
+823,2025-11-21,Choosing What to Eat,Decision Fatigue,12.0,Non-Productive,08:15,08:27
+824,2025-11-21,Short Video Binge (Reels/Shorts),Social Media,42.0,Non-Productive,15:23,16:05
+825,2025-11-21,Messaging / Chat Apps,Phone Usage,34.0,,15:37,16:11
+826,2025-11-21,Messaging / Chat Apps,Phone Usage,34.0,Non-Productive,16:59,17:33
+827,2025-11-21,Daydreaming / Zoning Out,Idle Time,40.0,Non-Productive,22:35,23:15
+828,2025-11-22,Procrastination Breaks,Idle Time,21.0,Non-Productive,10:08,10:29
+829,2025-11-22,Meal Preparation / Eating,Daily Living,23.0,Productive,12:04,12:27
+830,2025-11-22,Social Media Scrolling,Social Media,34.0,Non-Productive,12:56,13:30
+831,2025-11-22,Waiting for Public Transport,Waiting,18.0,Non-Productive,14:20,14:38
+832,2025-11-22,Random Phone Unlocking,Phone Usage,6.0,Non-Productive,17:51,17:57
+833,2025-11-22,Waiting in Queue (Billing/Counter),Waiting,13.0,Non-Productive,18:11,18:24
+834,2025-11-22,Short Video Binge (Reels/Shorts),Social Media,81.0,Non-Productive,18:12,19:33
+835,2025-11-22,Searching for Misplaced Items,,8.0,Non-Productive,18:29,18:37
+836,2025-11-22,YouTube Browsing,Entertainment,30.0,Non-Productive,19:18,19:48
+837,2025-11-22,Streaming TV/Web Series,Entertainment,62.0,Non-Productive,20:22,21:24
+838,2025-11-22,Choosing What to Watch,Decision Fatigue,5.0,Non-Productive,23:28,23:33
+839,2025-11-23,Social Media Scrolling,Social Media,18.0,Non-Productive,08:46,09:04
+840,2025-11-23,Online Course / Tutorial,Learning,54.0,Productive,09:23,10:17
+841,2025-11-23,Traffic / Commute Delay,Traffic,75.0,Non-Productive,09:35,10:50
+842,2025-11-23,Choosing What to Eat,Decision Fatigue,,Non-Productive,10:38,10:57
+843,2025-11-23,Messaging / Chat Apps,Phone Usage,23.0,Non-Productive,13:33,13:56
+844,2025-11-23,Social Media Scrolling,Social Media,26.0,Non-Productive,15:23,15:49
+845,2025-11-23,Messaging / Chat Apps,Phone Usage,27.0,Non-Productive,18:50,19:17
+846,2025-11-23,Overthinking / Indecision,Decision Fatigue,19.0,Non-Productive,18:54,19:13
+847,2025-11-23,Online Gaming,Entertainment,51.0,Non-Productive,19:38,20:29
+848,2025-11-23,Short Video Binge (Reels/Shorts),Social Media,57.0,Non-Productive,20:06,21:03
+849,2025-11-23,Social Media Scrolling,Social Media,42.0,Non-Productive,20:47,21:29
+850,2025-11-23,Streaming TV/Web Series,Entertainment,54.0,Non-Productive,21:28,22:22
+851,2025-11-23,Overthinking / Indecision,Decision Fatigue,27.0,Non-Productive,22:44,23:11
+852,2025-11-23,Social Media Scrolling,Social Media,31.0,Non-Productive,22:59,23:30
+853,2025-11-24,Checking Notifications,Phone Usage,3.0,Non-Productive,08:36,08:39
+854,2025-11-24,Checking Notifications,Phone Usage,6.0,Non-Productive,16:50,16:56
+855,2025-11-24,Streaming TV/Web Series,Entertainment,105.0,Non-Productive,18:06,19:51
+856,2025-11-24,Online Gaming,Entertainment,98.0,Non-Productive,18:58,20:36
+857,2025-11-24,Sleep Routine / Wind Down,Daily Living,20.0,Productive,21:13,21:33
+858,2025-11-24,Sleep Routine / Wind Down,Daily Living,20.0,Productive,22:56,23:16
+859,2025-11-25,Social Media Scrolling,Social Media,58.0,Non-Productive,08:43,09:41
+860,2025-11-25,Procrastination Breaks,Idle Time,20.0,Non-Productive,11:21,11:41
+861,2025-11-25,Checking Notifications,Phone Usage,6.0,,13:47,13:53
+862,2025-11-25,YouTube Browsing,Entertainment,19.0,Non-Productive,18:36,18:55
+863,2025-11-25,Online Gaming,Entertainment,53.0,Non-Productive,19:56,20:49
+864,2025-11-25,Daydreaming / Zoning Out,Idle Time,24.0,Non-Productive,20:40,21:04
+865,2025-11-25,Social Media Scrolling,Social Media,61.0,Non-Productive,23:05,00:06
+866,2025-11-26,Messaging / Chat Apps,Phone Usage,14.0,Non-Productive,08:15,08:29
+867,2025-11-26,Stuck in Traffic Signal Jams,Traffic,25.0,Non-Productive,11:20,11:45
+868,2025-11-26,Searching for Misplaced Items,Idle Time,20.0,Non-Productive,11:28,11:48
+869,2025-11-26,Random Phone Unlocking,Phone Usage,6.0,Non-Productive,13:04,13:10
+870,2025-11-26,YouTube Browsing,Entertainment,49.0,Non-Productive,13:34,14:23
+871,2025-11-26,Traffic / Commute Delay,Traffic,47.0,Non-Productive,16:05,16:52
+872,2025-11-26,YouTube Browsing,Entertainment,35.0,Non-Productive,17:30,18:05
+873,2025-11-26,Streaming TV/Web Series,Entertainment,65.0,Non-Productive,19:09,20:14
+874,2025-11-26,Choosing What to Watch,Decision Fatigue,14.0,Non-Productive,19:22,19:36
+875,2025-11-26,Traffic / Commute Delay,,20.0,Non-Productive,20:18,20:38
+876,2025-11-26,Streaming TV/Web Series,Entertainment,57.0,Non-Productive,22:33,23:30
+877,2025-11-26,Sleep Routine / Wind Down,Daily Living,38.0,Productive,23:09,23:47
+878,2025-11-27,Checking Notifications,Phone Usage,4.0,Non-Productive,06:22,06:26
+879,2025-11-27,Focused Project Work,Productive Work,130.0,Productive,12:09,14:19
+880,2025-11-27,Focused Project Work,Productive Work,126.0,Productive,12:26,14:32
+881,2025-11-27,Focused Project Work,Productive Work,86.0,Productive,17:17,18:43
+882,2025-11-27,Overthinking / Indecision,Decision Fatigue,24.0,Non-Productive,18:31,18:55
+883,2025-11-27,Social Media Scrolling,Social Media,38.0,Non-Productive,19:14,19:52
+884,2025-11-27,Social Media Scrolling,Social Media,62.0,Non-Productive,19:33,20:35
+885,2025-11-27,Traffic / Commute Delay,Traffic,75.0,Non-Productive,21:33,22:48
+886,2025-11-27,Choosing What to Eat,Decision Fatigue,20.0,Non-Productive,21:52,22:12
+887,2025-11-27,Social Media Scrolling,Social Media,52.0,Non-Productive,23:29,00:21
+888,2025-11-28,Traffic / Commute Delay,Traffic,44.0,Non-Productive,07:59,08:43
+889,2025-11-28,Messaging / Chat Apps,Phone Usage,31.0,Non-Productive,12:01,12:32
+890,2025-11-28,Overthinking / Indecision,Decision Fatigue,36.0,Non-Productive,12:46,13:22
+891,2025-11-28,Short Video Binge (Reels/Shorts),Social Media,61.0,Non-Productive,13:35,14:36
+892,2025-11-28,Choosing What to Watch,Decision Fatigue,17.0,Non-Productive,20:05,20:22
+893,2025-11-28,Stuck in Traffic Signal Jams,Traffic,19.0,Non-Productive,20:09,20:28
+894,2025-11-28,Online Gaming,Entertainment,89.0,Non-Productive,20:19,21:48
+895,2025-11-28,Short Video Binge (Reels/Shorts),Social Media,73.0,Non-Productive,21:39,22:52
+896,2025-11-28,Choosing What to Eat,Decision Fatigue,17.0,Non-Productive,21:47,22:04
+897,2025-11-28,Reading a Book,Learning,35.0,Productive,22:08,22:43
+898,2025-11-28,Reading a Book,Learning,44.0,Productive,22:45,23:29
+899,2025-11-29,Random Phone Unlocking,Phone Usage,3.0,Non-Productive,10:29,10:32
+900,2025-11-29,Stuck in Traffic Signal Jams,Traffic,22.0,Non-Productive,14:18,14:40
+901,2025-11-29,Waiting in Queue (Billing/Counter),Waiting,21.0,Non-Productive,15:56,16:17
+902,2025-11-29,Social Media Scrolling,Social Media,22.0,Non-Productive,17:25,17:47
+903,2025-11-29,Focused Project Work,Productive Work,106.0,Productive,17:34,19:20
+904,2025-11-29,Online Course / Tutorial,Learning,61.0,Productive,17:41,18:42
+905,2025-11-29,Searching for Misplaced Items,Idle Time,16.0,Non-Productive,19:49,20:05
+906,2025-11-29,Streaming TV/Web Series,Entertainment,101.0,Non-Productive,21:48,23:29
+907,2025-11-29,Sleep Routine / Wind Down,Daily Living,22.0,Productive,22:29,22:51
